@@ -24,17 +24,16 @@
 ### 📈 Projects:
 Here are some projects I’ve worked on recently:
 
-- **[Project 1: Customer Segmentation](link-to-project)**  
-  - Applied K-means clustering to segment customers based on purchasing behavior.
-  - Tools: Python, Pandas, Scikit-Learn, Matplotlib
+- **[Project 1:Sql (https://github.com/Chetnas111/SQL)**  
+  - Tools: MYSQL
 
-- **[Project 2: Predicting House Prices](link-to-project)**  
+- **[Project 2: Python](https://github.com/Chetnas111/Python)**  
   - Built a regression model to predict house prices using various features.
-  - Tools: Python, Pandas, Scikit-Learn, Seaborn
+  - Tools: Python
 
-- **[Project 3: Sales Data Analysis](link-to-project)**  
+- **[Project 3: Power BI Dashboard](https://github.com/Chetnas111/POWER-BI)**  
   - Analyzed sales data to identify trends and insights for strategic decision-making.
-  - Tools: SQL, Python, Matplotlib
+  - Tools: Power Bi Desktop
 
 ---
 
