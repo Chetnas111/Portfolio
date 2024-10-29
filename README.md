@@ -27,11 +27,11 @@ Here are some projects I’ve worked on recently:
 - **[Project 1:Sql (https://github.com/Chetnas111/SQL)**  
   - Tools: MYSQL
 
-- **[Project 2: Python](https://github.com/Chetnas111/Python)**  
+- **[Project 2: Python(https://github.com/Chetnas111/Python)**  
   - Built a regression model to predict house prices using various features.
   - Tools: Python
 
-- **[Project 3: Power BI Dashboard](https://github.com/Chetnas111/POWER-BI)**  
+- **[Project 3: Power BI Dashboard(https://github.com/Chetnas111/POWER-BI)**  
   - Analyzed sales data to identify trends and insights for strategic decision-making.
   - Tools: Power Bi Desktop
 
