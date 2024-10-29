@@ -20,6 +20,16 @@ I’m a fresh graduate passionate about data. While I’ve explored various fiel
 ---
 
 
+### 🛠️ Languages and Tools:
+- **Programming Languages:** Python, SQL,c++
+- **Databases:** MySQL
+- **Data Visualization:** Tableau, Microsoft Power BI, Matplotlib, Seaborn, Advanced Excel
+- **Data Analysis:** Data Cleaning, Transformation, Statistical Analysis, Predictive Modeling,
+- **Other Tools:** Microsoft Office, GitHub
+
+---
+
+
 ### 🛠️ Skills:
 - **Languages:** Python, SQL
 - **Libraries/Frameworks:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
