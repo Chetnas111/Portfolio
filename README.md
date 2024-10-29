@@ -13,6 +13,13 @@
 
 ---
 
+### ⚡ Fun Fact:
+I’m a fresh graduate passionate about data. While I’ve explored various fields, I realized that data science allows me to delve into the vast universe of data points! It's a thrilling shift from theoretical learning to practical application, where I can make impactful decisions through data.
+
+
+--
+
+
 ### 🛠️ Skills:
 - **Languages:** Python, SQL
 - **Libraries/Frameworks:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
